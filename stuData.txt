@@ -1,0 +1,24 @@
+*
+Sangam Mainali*
+Balaram Mainali
+*
+Suman Mainali*
+Balaram Mainali
+*
+shobha *
+Balaram Mainali
+*
+11cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }*
+cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }
+*
+cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }*
+cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }
+*
+cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }*
+cd "c:\Users\97798\Desktop\C++ Programs\student managemet system\" ; if ($?) { g++ student_managemtn.cpp -o student_managemtn } ; if ($?) { .\student_managemtn }
+*
+56 sangam mainali*
+balaram mainali
+*
+  45 sangam *
+balaram 
